@@ -1,2 +1,2 @@
-# 8 Bit Flame Website #
-The website for the 8 Bit Flame
+# 8 Bit Studios Website #
+The website for 8 Bit Studios
